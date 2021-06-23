@@ -122,6 +122,9 @@
     font-family: "Poppins", sans-serif;
     line-height: 23px;
 }
+.about-me-2{
+    margin: 3rem;
+}
 
 .about-heading-2 {
     font-size: 25px;
@@ -133,6 +136,7 @@
 .about-para-2 {
     font-family: "Poppins", sans-serif;
     line-height: 22px;
+    /* margin: 4rem; */
 }
 
 .skill-heading {
